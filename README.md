@@ -15,6 +15,20 @@ https://app.powerbi.com/view?r=eyJrIjoiN2EwMjEyMzYtZGQzOC00NWMyLWFmYTctNTQ2Y2M5M
 
 ## 📷 Algumas Imagens do Projeto
 
+![image](https://github.com/user-attachments/assets/91881e4a-1dc8-45ca-8e6b-bc15a1eb542c)
+![image](https://github.com/user-attachments/assets/dc676c94-c90f-4de4-866b-0047b2bade32)
+![image](https://github.com/user-attachments/assets/7b331d47-10b3-4259-ab43-ac6debb39c72)
+![image](https://github.com/user-attachments/assets/2e6b56ee-01e7-45f1-b935-5588d79394bc)
+![image](https://github.com/user-attachments/assets/c71fda21-7d3c-4bf9-9457-441aaa9c144f)
+![image](https://github.com/user-attachments/assets/4972323f-86d3-42ee-8be2-ee6ef7fee8a0)
+![image](https://github.com/user-attachments/assets/9aab6ff5-bdc7-41de-9a06-008656e5f839)
+![image](https://github.com/user-attachments/assets/a3ed546e-3bc0-4503-9ad0-d4e41bc9c3dd)
+
+
+
+
+
+
 
 
 

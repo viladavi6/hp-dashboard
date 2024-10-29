@@ -7,11 +7,16 @@ Esse é um dashboard feito por mim e um desafio do Comunidade Data Driven(https:
 
 Esse projeto foi bem desafiador, a análise de dados foi feita com Python utilizando o Pandas, o Figma para visuais, pacote de desenvolvimento web para visuais animados e as próprias ferramentas do PowerBI.
 
-## ⚙ Como Executar o Arquivo?
+## ▶ Como Executar o Arquivo?
 
 É necessário ter o Power BI instalado ou acessar pelo site:
 https://app.powerbi.com/view?r=eyJrIjoiN2EwMjEyMzYtZGQzOC00NWMyLWFmYTctNTQ2Y2M5MTE2NWNjIiwidCI6IjJmOWY3MDEyLTg1NGEtNDM3NS05YWJjLTFiOGVhNzM4YjNiYyJ9
 
+## 🔗 Crédito (Arquivo de Terceiros)
+
+Alguns ícones: https://www.flaticon.com/
+Gif: https://www.youtube.com/watch?v=UIcd_lz_R5M
+Pergaminho Antigo: https://br.freepik.com/
 
 ## 📷 Algumas Imagens do Projeto
 
@@ -33,7 +38,7 @@ https://app.powerbi.com/view?r=eyJrIjoiN2EwMjEyMzYtZGQzOC00NWMyLWFmYTctNTQ2Y2M5M
 
 
 
-## 🔗 Ferramentas Utilizadas no Projeto
+## ⚙ Ferramentas Utilizadas no Projeto
 
 <div>
   <img width="50px" lang="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />

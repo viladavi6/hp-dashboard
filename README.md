@@ -1,11 +1,13 @@
 
 # ✔ Dashboard Feito para o Desfio Harry Potter do Data Driven:
 
-Você já imaginou um Dashboard animado de Harry Potter utilizando Html, Css e Javascript?
+<div> Você já imaginou um Dashboard animado de Harry Potter utilizando Html, Css e Javascript? </div>
 
 Esse é um dashboard feito por mim e um desafio do Comunidade Data Driven(https://soudatadriven.com/desafio-harry-potter/), onde tem análises sobre os filmes da franquia, faço visuais relacionados a principais magias, lugares e falas de personagens e para completar uma tela de abc, onde você consegue ver informações sobre cada personagem de forma individual.
 
-Esse projeto foi bem desafiador, a análise de dados foi feita com Python utilizando o Pandas, o Figma para visuais, pacote de desenvolvimento web para visuais animados e as próprias ferramentas do PowerBI.
+<div>
+  Esse projeto foi bem desafiador, a análise de dados foi feita com Python utilizando o Pandas, o Figma para visuais, pacote de desenvolvimento web para visuais animados e as próprias ferramentas do PowerBI.
+</div>
 
 ## ▶ Como Executar o Arquivo?
 
@@ -14,9 +16,9 @@ https://app.powerbi.com/view?r=eyJrIjoiN2EwMjEyMzYtZGQzOC00NWMyLWFmYTctNTQ2Y2M5M
 
 ## 🔗 Crédito (Arquivo de Terceiros)
 
-Alguns ícones: https://www.flaticon.com/
-Gif: https://www.youtube.com/watch?v=UIcd_lz_R5M
-Pergaminho Antigo: https://br.freepik.com/
+<div> Alguns ícones: https://www.flaticon.com/ </div>
+<div> Gif: https://www.youtube.com/watch?v=UIcd_lz_R5M </div>
+<div> Pergaminho Antigo: https://br.freepik.com/ </div>
 
 ## 📷 Algumas Imagens do Projeto
 
